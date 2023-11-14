@@ -1,0 +1,44 @@
+html{
+    background: linear-gradient( #D962A1, #9B59BA);
+}
+
+h1{
+    font-size: 1.05rem;
+    color: hsl(256, 41%, 56%);
+}
+
+h2{
+    font-size: 1.25rem;
+    color: #fafe73;
+}
+
+h3{
+    font-size: 1.5rem;
+    color: rgb(193, 240, 109);
+}
+
+h4{
+    font-size: 1.75rem;
+    color: #c1f06d;
+}
+
+h5{
+    font-size: 2rem;
+    color: hsl(82, 81%, 68%);
+}
+
+h6{
+    font-size: 2.5rem;
+}
+
+#tex-container{
+    font-size: 1.5rem;
+}
+
+#Uno{
+    width: 35.4rem;
+}
+
+#Dos{
+    width: 30%;
+}
